@@ -33,6 +33,7 @@ library
         src
 
     exposed-modules:
+        BuildManager,
         Flags,
         Path,
         Paths_elm_make,
